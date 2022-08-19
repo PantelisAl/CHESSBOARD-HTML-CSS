@@ -1,0 +1,19 @@
+table{
+    border-width:50px;
+    border-color: rgba(94, 80, 246, 0.6)
+}
+
+.black{
+    background-color: black;
+}
+ 
+td{
+    height:200px;
+}
+
+img{
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
